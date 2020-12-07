@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Добро пожаловать на сайт алгоритмов диагностики и лечения заболеваний
 
 You can use the [editor on GitHub](https://github.com/doctormdx/medical_algoritm/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
