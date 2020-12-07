@@ -2,5 +2,5 @@
 ### Урология, Андрология
 [Причины мужского бесплодия] (../medical_algoritm/hpv.html)
 ### Гинекология
-[Вирус папилломы человека] (../medical_algoritm/hpv.html)
+[Вирус папилломы человека] (../medical_algoritm/male_infertility_ causes.html)
 
